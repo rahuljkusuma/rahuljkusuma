@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+# Hi there 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 I am Rahul J Kusuma from Mumbai, India. I am currently learning Python and DataScience.
 - 🌱 I’m currently learning and building projects using Python.
