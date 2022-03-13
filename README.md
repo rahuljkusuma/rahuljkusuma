@@ -16,6 +16,6 @@ I am Rahul J Kusuma from Mumbai, India. I am currently learning Python and DataS
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahuljkusuma&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ## 📫 Reach out to me! <br />
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.js' alt='dev' height='20'>](https://www.kaggle.com/rahuljkusuma/account) Medium <br />
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/rahul-kusuma-174a85a2) Linked In <br />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='dev' height='20'>](https://www.kaggle.com/rahuljkusuma/account) Kaggle <br />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/rahul-kusuma-174a85a2) LinkedIn <br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://rahuljkusuma.github.io/My_Profile/)  Portfolio
