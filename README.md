@@ -12,7 +12,7 @@ I am Rahul J Kusuma from Mumbai, India. I am currently learning Python and DataS
 <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 
 # Git Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuljkusuma&layout=compact)](https://github.com/rahuljkusuma/github-readme-stats)<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuljkusuma&layout=compact)](https://github.com/rahuljkusuma/github-readme-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahuljkusuma&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ## 📫 Reach out to me! <br />
